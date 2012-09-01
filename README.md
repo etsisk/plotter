@@ -1,4 +1,4 @@
 plotter
 =======
 
-Various point plotting experiments
+Various point plotting experiments using Processing.
